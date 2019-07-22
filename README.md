@@ -6,6 +6,10 @@ A Python extension for getting RandomX hashes.
 
 ## Installation
 
+please ensure that you are running the latest version of pip.
+
+then complete the following in your terminal. 
+
 ```
 pip install git+https://github.com/jtgrassie/pyrx
 ```
