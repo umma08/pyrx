@@ -2,6 +2,8 @@
 
 A Python extension for getting RandomX hashes.
 
+*this is a fork of the jtgrassie project available at [this link](https://github.com/jtgrassie/pyrx)*
+
 ## Installation
 
 ```
